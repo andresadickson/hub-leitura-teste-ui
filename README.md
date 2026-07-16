@@ -1,6 +1,6 @@
 # 📚 Hub Leitura - Automação de Testes com Cypress
 
-Este repositório foi desenvolvido como parte das atividades práticas do curso **Engenharia de Qualidade de Software**, da **EBAC (Escola Britânica de Artes Criativas e Tecnologia)**.
+Este repositório foi desenvolvido como parte das atividades práticas do curso **Engenharia de Qualidade de Software**, da **EBAC**.
 
 O objetivo deste projeto é aplicar, na prática, conceitos de automação de testes para aplicações web utilizando o **Cypress**, além de desenvolver habilidades em versionamento de código com **Git** e **GitHub**.
 
